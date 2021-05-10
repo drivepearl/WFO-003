@@ -1,0 +1,12 @@
+{
+    "name": "IESEFOSP WFO",
+    "website": "https://wfo.antosh.in/",
+    "description": "IESEFOSP (WFO) BEP20 Token is generated on Binance Smart Chain. WFO means World Family Order. WFO means work for others. Let's Work for Others. WFO is inspired from Universal Human Values. Let's save Humanity. iesefosp token is BEP20 Token.",
+    "explorer": "https://bscscan.com/token/0x1eedde0872ec92bc8e1596b7081fde05c38fd921",
+    "research": "https://wfo.antosh.in",
+    "type": "BEP20",
+    "symbol": "WFO",
+    "decimals": 18,
+    "status": "active",
+    "id": "WFO-003"
+}
